@@ -1,2 +1,2 @@
-# MTH4000-2.0
+# MTH4000
 For my Programming Module 
